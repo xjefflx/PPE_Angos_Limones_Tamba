@@ -2,13 +2,15 @@
 
 Aplicación de escritorio en C# (Windows Forms) desarrollada para gestionar los procesos internos del Refugio de Animales de Compañía (RAC).
 
-## Integrantes
-* Jeff Alejandro Limones Chachapoya
-* Erika Pahola Tamba Catucuamba
-* Cesar Ignacio Angos Sosa
+## Integrantes y Roles
+*(Nota: A pesar de asignar roles, todos los integrantes trabajaron de manera equitativa).*
+
+* **Cesar Ignacio Angos Sosa** – Coordinador de proyecto y Desarrollador
+* **Jeff Alejandro Limones Chachapoya** – Arquitecto de solución y Desarrollador
+* **Erika Pahola Tamba Catucuamba** – Analista de requerimientos y Documentadora
 
 ## Problemática
-El refugio realiza el control de rescates, historiales médicos, solicitudes de adopción, seguimientos y donaciones de forma manual. Esto dificulta llevar un seguimiento ordenado de los animales entregados en adopción temporal o definitiva, verificar su estado de salud y controlar el inventario de insumos o aportes recibidos.
+El refugio realiza el control de rescates, historiales médicos, solicitudes de adopción, seguimientos y donaciones de forma manual en cuadernos y fichas físicas. Esto dificulta llevar un seguimiento ordenado de los animales entregados en adopción temporal o definitiva, verificar su estado de salud y controlar el inventario de insumos o aportes recibidos.
 
 ## Solución
 Implementar una aplicación de escritorio local (monousuario) administrada por el encargado del refugio, que permita:
@@ -26,8 +28,8 @@ Implementar una aplicación de escritorio local (monousuario) administrada por e
 
 ## Estructura del repositorio
 ```text
-PPE_Limones_Tamba_Angos/
-├── SG_RAC/
+PPE_Angos_Limones_Tamba/
+├── SG_RAC/                  # Solución (.slnx) y código fuente del proyecto Windows Forms
 ├── Documentacion/
 │   ├── 01_Gestion_y_Alcance/
 │   │   ├── 01_Vision_y_Alcance.md
