@@ -4,8 +4,8 @@ Aplicación de escritorio en C# (Windows Forms) desarrollada para gestionar los 
 
 ## Integrantes
 * Jeff Alejandro Limones Chachapoya
-* [Nombre] Angos
-* [Nombre] Urrea
+* Erika Pahola Tamba Catucuamba
+* Cesar Ignacio Angos Sosa
 
 ## Problemática
 El refugio realiza el control de rescates, historiales médicos, solicitudes de adopción, seguimientos y donaciones de forma manual. Esto dificulta llevar un seguimiento ordenado de los animales entregados en adopción temporal o definitiva, verificar su estado de salud y controlar el inventario de insumos o aportes recibidos.
@@ -26,7 +26,7 @@ Implementar una aplicación de escritorio local (monousuario) administrada por e
 
 ## Estructura del repositorio
 ```text
-PPE_Limones_Angos_Urrea/
+PPE_Limones_Tamba_Angos/
 ├── SG_RAC/
 ├── Documentacion/
 │   ├── 01_Gestion_y_Alcance/
