@@ -1,6 +1,7 @@
 # Matriz de Interesados (Stakeholders)
 
 **Proyecto:** Sistema de Gestión para Refugio de Animales de Compañía (SG-RAC)  
+**Integrantes:** Jeff Alejandro Limones Chachapoya, Erika Pahola Tamba Catucuamba, Cesar Ignacio Angos Sosa  
 
 ## 1. Identificación de Interesados
 
